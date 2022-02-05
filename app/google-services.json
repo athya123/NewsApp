@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089673987300",
+    "project_id": "newsapp-4b591",
+    "storage_bucket": "newsapp-4b591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089673987300:android:fa426d18ffc29332cd18f1",
+        "android_client_info": {
+          "package_name": "com.tare.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089673987300-elfuh7d31r3s2fq90hoers41a0tq24k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApFWqUgLZtj2UEiOYjBiWNfsYTvHSC3Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089673987300-elfuh7d31r3s2fq90hoers41a0tq24k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
