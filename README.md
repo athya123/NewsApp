@@ -1,6 +1,6 @@
 # NewsApp
 
-Link to apk and app demo -> (Google Drive)[https://drive.google.com/drive/folders/1edS5_cFDby-1mW7LCmrBkRaRvRTfagLe?usp=sharing]
+Link to apk and app demo -> [Google Drive](https://drive.google.com/drive/folders/1edS5_cFDby-1mW7LCmrBkRaRvRTfagLe?usp=sharing)
 
 A simple app to fetch news from NewsApi and show ads from admob.
 
